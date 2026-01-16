@@ -1,6 +1,4 @@
-=========================================
-Welcome to Simple Recon Scanner
-=========================================
+Simple Recon Scanner
 
 🔍🔥 Simple Recon Scanner 🔥🔍 is a Python CLI tool that performs quick reconnaissance
 on a target IP or domain using multiple public OSINT sources.
